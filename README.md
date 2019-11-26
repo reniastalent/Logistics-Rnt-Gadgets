@@ -36,4 +36,4 @@ its all about selling products in my country Zimbabwe
 * week 14: Upgrade Ops based
 * week 15: Final release
 
-<for more here is my link https://reniastalent.github.io/Logistics-Rnt-Gadgets/
+<my link https://reniastalent-logistics-rnt-gadgets.glitch.me/
